@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Кирилл Шехурин/source/repos/Shashky/Shashky/Content/BelaiaShashka.png</File>
+    <File>C:/Users/Кирилл Шехурин/source/repos/Shashky/Shashky/Content/ChornayaShashka.png</File>
+    <File>C:/Users/Кирилл Шехурин/source/repos/Shashky/Shashky/Content/KorichneviyBlockPolia.png</File>
+    <File>C:/Users/Кирилл Шехурин/source/repos/Shashky/Shashky/Content/KrastaiaRamka.png</File>
+    <File>C:/Users/Кирилл Шехурин/source/repos/Shashky/Shashky/Content/SiniyaRamca.png</File>
+    <File>C:/Users/Кирилл Шехурин/source/repos/Shashky/Shashky/Content/SiniyBlockPolia.png</File>
+    <File>C:/Users/Кирилл Шехурин/source/repos/Shashky/Shashky/Content/TargetPoint.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
